@@ -1,0 +1,479 @@
+Adding local address: 192.168.2.251
+Adding local address: fe80::a8c8:b7f1:1c4c:6bfa
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0316406	0.0117188
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.924414	0.899805
+/usr/bin/python3/145419/0	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.13418	0.923242
+/usr/bin/python3/145515/1000	0.0144531	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145419/0	0.33457	2.1543
+/usr/bin/python3/145515/1000	0.270117	0.95293
+sshd: worker1@pts/2/134341/1000	1.13418	0.923242
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.13418	0.923242
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/python3/145515/1000	0.33457	2.1543
+/usr/bin/python3/145419/0	0.33457	2.1543
+sshd: worker1@pts/2/134341/1000	1.22949	1.01113
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	0.0105469	0.139453
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+sshd: worker1@pts/2/134341/1000	12.5805	4.02422
+wget/145526/1000	0.355469	1.02676
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	22.6246	960.243
+sshd: worker1@pts/2/134341/1000	12.8281	4.07109
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	77.5773	3336.96
+sshd: worker1@pts/2/134341/1000	13.1191	4.12969
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	131.465	5764.4
+sshd: worker1@pts/2/134341/1000	13.4102	4.18828
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	184.364	8145.76
+sshd: worker1@pts/2/134341/1000	2.28164	0.333984
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	215.452	9614.12
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.748	9366.01
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.369	9345.43
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	206.934	9324.27
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	203.509	9166.02
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	209.408	9419.63
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	200.733	9032.69
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	201.016	9044.86
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	203.814	9168.05
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	203.981	9175.87
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	213.572	9605.13
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	211.922	9530.64
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	206.289	9280.22
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	205.812	9259.06
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	205.489	9243.99
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.274	9368.91
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	213.946	9620.78
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.338	9370.94
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.952	9356.16
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.609	9385.43
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.147	9364.85
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	214.76	9659.62
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.186	9363.98
+sshd: worker1@pts/2/134341/1000	1.16406	0.222656
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.74	9388.91
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.274	9368.33
+sshd: worker1@pts/2/134341/1000	1.16406	0.222656
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.81	9347.46
+sshd: worker1@pts/2/134341/1000	1.16406	0.246094
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	214.448	9643.68
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.178	9350.07
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	206.661	9329.2
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.216	9353.84
+sshd: worker1@pts/2/134341/1000	1.16406	0.222656
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	206.739	9332.68
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	213.506	9603.97
+sshd: worker1@pts/2/134341/1000	1.16406	0.246094
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	210.375	9461.95
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+/usr/bin/python3/145515/1000	0	0
+/usr/bin/python3/145419/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.874	9350.07
+sshd: worker1@pts/2/134341/1000	1.10586	0.234375
+/usr/bin/python3/145515/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.441	9376.16
+sshd: worker1@pts/2/134341/1000	1.17461	0.240234
+/usr/bin/python3/145515/1000	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.977	9355.29
+sshd: worker1@pts/2/134341/1000	1.11641	0.240234
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	211.6	9517.02
+sshd: worker1@pts/2/134341/1000	1.17461	0.240234
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	214.219	9635.86
+sshd: worker1@pts/2/134341/1000	1.17461	0.240234
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.696	9343.69
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.302	9371.23
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	202.695	9121.38
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	203.285	9146.02
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	208.893	9397.02
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	202.16	9101.09
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.858	9354.42
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	207.432	9335.58
+sshd: worker1@pts/2/134341/1000	1.16406	0.234375
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
+
+Refreshing:
+wget/145526/1000	233.716	10516
+sshd: worker1@pts/2/134341/1000	1.69766	0.328125
+unknown TCP/0/0	0	0
